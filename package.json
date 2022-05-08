@@ -1,0 +1,12 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs  Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "learing nodejs",
+    "start": "node src/app.js"
+  },
+  "author": "vignesh",
+  "license": "ISC"
+}
